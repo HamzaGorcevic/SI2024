@@ -1,0 +1,267 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="Page-1" id="srrNP7o3LFm7SC8HB50d">
+    <mxGraphModel dx="3268" dy="2278" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-1" value="Prijavljeni korisnik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="300" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-2" value="Neregistrovan korisnik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="205" y="11" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-3" value="Vlasnik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="480" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-4" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="60" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-5" value="Prijavljivanje" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="210" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="66" as="sourcePoint" />
+            <mxPoint x="85" y="86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-7" value="Prikaz garaže i električnog punjača, verifikovanje i odbijanje" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="65" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-8" value="Unos,prikaz i ažuriranje osnovnih podataka o garaži i elektricnog punjacu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="132" y="472" width="137" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="510" as="sourcePoint" />
+            <mxPoint x="286" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-10" value="Rezervisanje,&lt;div&gt;produživanje&lt;div&gt;rezervacije&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="555" y="340" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-11" value="Prikaz rezervija" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="220" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="330" as="sourcePoint" />
+            <mxPoint x="540" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="340" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-14" value="Prikaz garaža i informacije&lt;div&gt;o garaži&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="300" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="340" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-16" value="Filtriranje i pretraga&amp;nbsp;&lt;div&gt;garaža&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="260" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-17" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="310" as="sourcePoint" />
+            <mxPoint x="540" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-18" value="Prikaz putanje do garaze i elektrićnog punjača" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="255" y="380" width="112" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="357" y="386" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-20" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="100" as="sourcePoint" />
+            <mxPoint x="690" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=11.111111111111112;endSize=3.8750000000000004;width=1.6666666666666667;" parent="1" target="9Gqb0izrLKRCSH_k_9Q2-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="470" as="sourcePoint" />
+            <mxPoint x="500" y="420" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-22" value="Registracija" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-17.5" y="76" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-23" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="300" as="sourcePoint" />
+            <mxPoint x="500" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="551" y="160" as="sourcePoint" />
+            <mxPoint x="551" y="196" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-26" value="Filtriranje po tipu električnog punjača" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="153" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gqb0izrLKRCSH_k_9Q2-28" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="285" as="sourcePoint" />
+            <mxPoint x="424" y="236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-1" value="Filtriranje i pretraga&amp;nbsp;&lt;div&gt;garaža&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="971" y="270" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-2" value="Filtriranje na osnovu naziva" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1154" y="186" width="116" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-3" value="Filtriranje na osnovu cena&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Filtriranje%20na%20osnovu%20naziva%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221199%22%20y%3D%22233%22%20width%3D%22116%22%20height%3D%2267%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1166" y="282" width="116" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-4" value="Filtriranje na osnovu distance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1159" y="378" width="116" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="283" as="sourcePoint" />
+            <mxPoint x="1140" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1089" y="302" as="sourcePoint" />
+            <mxPoint x="1154" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1086" y="318" as="sourcePoint" />
+            <mxPoint x="1151" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-8" value="Prikaz garaža i informacije&lt;div&gt;o garaži&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="976" y="544" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1073" y="558" as="sourcePoint" />
+            <mxPoint x="1160" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-10" value="Uzivo informacije o dostupnim mestima" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1172" y="485" width="116" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-11" value="Prikaz garaža na mapi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1194" y="556" width="101" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-12" value="Prikaz garaža na sidebar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1189" y="629" width="101" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1087" y="578" as="sourcePoint" />
+            <mxPoint x="1184" y="583" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1081" y="596" as="sourcePoint" />
+            <mxPoint x="1178" y="639" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-15" value="Prikaz putanje do garaze i elektrićnog punjača" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="944" y="19" width="112" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1061" y="33" as="sourcePoint" />
+            <mxPoint x="1111" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-18" value="Prikaz putanje na sajtu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1108" y="-78" width="116" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-19" value="Prikaz putanje na google maps" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1134" y="22.5" width="116" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1067" y="58" as="sourcePoint" />
+            <mxPoint x="1121" y="54" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-21" value="Rezervisanje,&lt;div&gt;produživanje&lt;div&gt;rezervacije&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="981" y="826" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1083" y="828" as="sourcePoint" />
+            <mxPoint x="1173" y="793" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1092" y="848" as="sourcePoint" />
+            <mxPoint x="1202" y="845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1099" y="876" as="sourcePoint" />
+            <mxPoint x="1193" y="922" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-25" value="Rezervisanje na sate&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Prikaz%20gara%C5%BEa%20na%20sidebar%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221189%22%20y%3D%22629%22%20width%3D%22101%22%20height%3D%2258%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1178" y="748" width="101" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-26" value="Rezervisanje od datuma do datuma&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Prikaz%20gara%C5%BEa%20na%20sidebar%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221189%22%20y%3D%22629%22%20width%3D%22101%22%20height%3D%2258%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1223" y="821" width="109" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-27" value="Produživanje režervacije" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1218" y="900" width="109" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-28" value="Unos,prikaz i ažuriranje osnovnih podataka o garaži i elektricnog punjacu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="825" y="-343" width="137" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-29" value="Kreiranje garaže ili el punjača" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="-354" width="116" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="975" y="-309" as="sourcePoint" />
+            <mxPoint x="1098" y="-320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-31" value="Ažuriranje garaže-el punjača" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1108" y="-250" width="116" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="969" y="-277" as="sourcePoint" />
+            <mxPoint x="1092" y="-230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-33" value="Mapa za odabir lokacije" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1073" y="-474" width="116" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="vYc49cZ9WT9gd8T1REox-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="948" y="-343" as="sourcePoint" />
+            <mxPoint x="1063" y="-428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
