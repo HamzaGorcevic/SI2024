@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
+  <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
+    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7baba1c4bc27f4b0-2" value="Bilo koja stranica, aplikacije" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="130" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-g8PEcf7IXEEY6PG1Q-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="7baba1c4bc27f4b0-2">
+          <mxGeometry x="60" y="70" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-g8PEcf7IXEEY6PG1Q-4" value="&amp;lt;show&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="7baba1c4bc27f4b0-3" parent="7baba1c4bc27f4b0-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70.00034482758605" y="80" as="sourcePoint" />
+            <mxPoint x="210" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175.19" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ud-g8PEcf7IXEEY6PG1Q-7" value="odabir filtera za&lt;div&gt;prikaz garaže ilil&lt;/div&gt;&lt;div&gt;električnog punjača&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="7baba1c4bc27f4b0-2" target="7baba1c4bc27f4b0-3">
+          <mxGeometry x="-0.4658" y="20" relative="1" as="geometry">
+            <mxPoint x="-80" y="230" as="sourcePoint" />
+            <mxPoint x="210" y="230" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ud-g8PEcf7IXEEY6PG1Q-12" value="odabi cene iz dropdown-a" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="7baba1c4bc27f4b0-2">
+          <mxGeometry x="-0.4667" y="10" relative="1" as="geometry">
+            <mxPoint x="-80" y="289.71" as="sourcePoint" />
+            <mxPoint x="220" y="289.71" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ud-g8PEcf7IXEEY6PG1Q-15" value="&lt;font color=&quot;#ff9999&quot; style=&quot;font-size: 7px;&quot;&gt;(ZA MANJE UREDJAJE)&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#330000&quot; style=&quot;font-size: 11px;&quot;&gt;odabir za prikaz&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#330000&quot; style=&quot;font-size: 11px;&quot;&gt;mape ili sidebar-a&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="7baba1c4bc27f4b0-2">
+          <mxGeometry x="-0.5333" y="20" relative="1" as="geometry">
+            <mxPoint x="-80" y="130" as="sourcePoint" />
+            <mxPoint x="220" y="130" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-3" value="Stranica sa garažama i električnim punjačima" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="390" y="80" width="140" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-g8PEcf7IXEEY6PG1Q-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="7baba1c4bc27f4b0-3">
+          <mxGeometry x="65" y="325" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-g8PEcf7IXEEY6PG1Q-9" value="Rerender komponente" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" target="ud-g8PEcf7IXEEY6PG1Q-8" parent="7baba1c4bc27f4b0-3" source="ud-g8PEcf7IXEEY6PG1Q-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="305" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="325" />
+              <mxPoint x="105" y="325" />
+              <mxPoint x="105" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ud-g8PEcf7IXEEY6PG1Q-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=100;" vertex="1" parent="1">
+          <mxGeometry x="130" y="30" width="50" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-g8PEcf7IXEEY6PG1Q-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ud-g8PEcf7IXEEY6PG1Q-1">
+          <mxGeometry x="20" y="250" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-g8PEcf7IXEEY6PG1Q-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ud-g8PEcf7IXEEY6PG1Q-1">
+          <mxGeometry x="20" y="315" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-g8PEcf7IXEEY6PG1Q-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ud-g8PEcf7IXEEY6PG1Q-1">
+          <mxGeometry x="20" y="160" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ud-g8PEcf7IXEEY6PG1Q-10" value="&lt;b&gt;Prijavljeni&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Korisnik&lt;/span&gt;&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
